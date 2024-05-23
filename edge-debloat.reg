@@ -6,7 +6,6 @@ Windows Registry Editor Version 5.00
 "ReadAloudEnabled"=dword:00000000
 "PinBrowserEssentialsToolbarButton"=dword:00000000
 "FavoritesBarEnabled"=dword:00000000
-"SplitScreenEnabled"=dword:00000001
 "LinkedAccountEnabled"=dword:00000000
 "GuidedSwitchEnabled"=dword:00000000
 "EdgeDefaultProfileEnabled"="Default"
