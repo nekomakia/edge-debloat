@@ -120,6 +120,9 @@ Windows Registry Editor Version 5.00
 "BackgroundModeEnabled"=dword:00000000
 "StartupBoostEnabled"=dword:00000000
 "TrackingPrevention"=dword:00000002
+"StandaloneHubsSidebarEnabled"=dword:00000000
+"HubsSidebarEnabled"=dword:00000000
+"SplitScreenEnabled"=dword:00000000
 ; site shields
 "DefaultGeolocationSetting"=dword:00000002
 "DefaultLocalFontsSetting"=dword:00000002
