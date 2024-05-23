@@ -18,7 +18,6 @@ Windows Registry Editor Version 5.00
 "AccessibilityImageLabelsEnabled"=dword:00000000
 "AddressBarMicrosoftSearchInBingProviderEnabled"=dword:00000000
 "AllowGamesMenu"=dword:00000000
-"AutomaticHttpsDefault"=dword:00000002
 "BrowserAddProfileEnabled"=dword:00000000
 "BrowserGuestModeEnabled"=dword:00000000
 "ComposeInlineEnabled"=dword:00000000
@@ -98,12 +97,7 @@ Windows Registry Editor Version 5.00
 "EdgeManagementEnabled"=dword:00000000
 "DesktopSharingHubEnabled"=dword:00000000
 "CopilotPageContextEnabled"=dword:00000000 ;copilot
-; site shields
-"DefaultGeolocationSetting"=dword:00000002
-"DefaultLocalFontsSetting"=dword:00000002
-"DefaultSensorsSetting"=dword:00000002
-"DefaultNotificationsSetting"=dword:00000002
-; another debloat
+; other debloat
 "BackgroundModeEnabled"=dword:00000000
 "BingAdsSuppression"=dword:00000001
 "CryptoWalletEnabled"=dword:00000000
@@ -123,5 +117,8 @@ Windows Registry Editor Version 5.00
 "ShowMicrosoftRewards"=dword:00000000
 "WalletDonationEnabled"=dword:00000000
 "WebWidgetAllowed"=dword:00000000
-"SyncDisabled"=dword:00000001
-"ConfigureDoNotTrack"=dword:00000001
+; site shields
+"DefaultGeolocationSetting"=dword:00000002
+"DefaultLocalFontsSetting"=dword:00000002
+"DefaultSensorsSetting"=dword:00000002
+"DefaultNotificationsSetting"=dword:00000002
