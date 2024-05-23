@@ -110,6 +110,16 @@ Windows Registry Editor Version 5.00
 "ShowMicrosoftRewards"=dword:00000000
 "WalletDonationEnabled"=dword:00000000
 "WebWidgetAllowed"=dword:00000000
+"AutomaticHttpsDefault"=dword:00000002
+"SyncDisabled"=dword:00000001
+"ConfigureDoNotTrack"=dword:00000001
+"AskBeforeCloseEnabled"=dword:00000000
+"PinBrowserEssentialsToolbarButton"=dword:00000000
+"PinningWizardAllowed"=dword:00000000
+"FavoritesBarEnabled"=dword:00000000
+"BackgroundModeEnabled"=dword:00000000
+"StartupBoostEnabled"=dword:00000000
+"TrackingPrevention"=dword:00000002
 ; site shields
 "DefaultGeolocationSetting"=dword:00000002
 "DefaultLocalFontsSetting"=dword:00000002
