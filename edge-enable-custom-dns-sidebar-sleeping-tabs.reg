@@ -11,7 +11,6 @@ Windows Registry Editor Version 5.00
 "AutoDiscardSleepingTabsEnabled"=dword:00000001
 "SleepingTabsEnabled"=dword:00000001
 "SleepingTabsTimeout"=dword:00000300
-"BuiltInDnsClientEnabled"=dword:00000001
 "StandaloneHubsSidebarEnabled"=dword:00000001
 "HubsSidebarEnabled"=dword:00000001
 "SplitScreenEnabled"=dword:00000001
