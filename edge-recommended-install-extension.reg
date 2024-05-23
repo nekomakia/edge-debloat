@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+;extensions force install
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\ExtensionInstallForcelist]
+"1"="odfafepnkmbhccpbejgmiehpchacaeak" ;uBlock Origin
+"2"="mkejgcgkdlddbggjhhflekkondicpnop" ;Privacy Badger
+"3"="eeagobfjdenkkddmbclomhiblgggliao" ;Violentmonkey
+"4"="ldcclmkclhomnpcnccgbgleikchbnecl" ;FastForward
