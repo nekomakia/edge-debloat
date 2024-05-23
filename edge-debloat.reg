@@ -4,8 +4,6 @@ Windows Registry Editor Version 5.00
 ; debloat
 "SearchInSidebarEnabled"=dword:00000002
 "ReadAloudEnabled"=dword:00000000
-"PinBrowserEssentialsToolbarButton"=dword:00000000
-"FavoritesBarEnabled"=dword:00000000
 "LinkedAccountEnabled"=dword:00000000
 "GuidedSwitchEnabled"=dword:00000000
 "EdgeDefaultProfileEnabled"="Default"
@@ -39,7 +37,6 @@ Windows Registry Editor Version 5.00
 "RelatedWebsiteSetsEnabled"=dword:00000000
 "MouseGestureEnabled"=dword:00000000
 "PaymentMethodQueryEnabled"=dword:00000000
-"PinningWizardAllowed"=dword:00000000
 "PromotionalTabsEnabled"=dword:00000000
 "QuickSearchShowMiniMenu"=dword:00000000
 "QuickViewOfficeFilesEnabled"=dword:00000000
@@ -66,7 +63,6 @@ Windows Registry Editor Version 5.00
 "PasswordMonitorAllowed"=dword:00000000
 "PasswordProtectionWarningTrigger"=dword:00000000
 "AlternateErrorPagesEnabled"=dword:00000000
-"AskBeforeCloseEnabled"=dword:00000000
 "AutofillAddressEnabled"=dword:00000000
 "AutofillCreditCardEnabled"=dword:00000000
 "AutofillMembershipsEnabled"=dword:00000000
@@ -79,8 +75,6 @@ Windows Registry Editor Version 5.00
 "NetworkPredictionOptions"=dword:00000000
 "UserFeedbackAllowed"=dword:00000000
 "TyposquattingCheckerEnabled"=dword:00000000
-"TrackingPrevention"=dword:00000002
-"StartupBoostEnabled"=dword:00000000
 "SigninInterceptionEnabled"=dword:00000000
 "SideSearchEnabled"=dword:00000000
 "ShowPDFDefaultRecommendationsEnabled"=dword:00000000
@@ -98,7 +92,6 @@ Windows Registry Editor Version 5.00
 "DesktopSharingHubEnabled"=dword:00000000
 "CopilotPageContextEnabled"=dword:00000000 ;copilot
 ; other debloat
-"BackgroundModeEnabled"=dword:00000000
 "BingAdsSuppression"=dword:00000001
 "CryptoWalletEnabled"=dword:00000000
 "DiagnosticData"=dword:00000000
