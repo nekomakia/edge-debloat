@@ -1,0 +1,27 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
+;my custom policies
+"EfficiencyMode"=dword:00000000
+"EfficiencyModeEnabled"=dword:00000001
+"HighEfficiencyModeEnabled"=dword:00000000
+"BuiltInDnsClientEnabled"=dword:00000001
+"DnsOverHttpsMode"="secure"
+"DnsOverHttpsTemplates"="https://freedns.controld.com/x-goodbyeads"
+"AutoDiscardSleepingTabsEnabled"=dword:00000001
+"SleepingTabsEnabled"=dword:00000001
+"SleepingTabsTimeout"=dword:00000300
+"BuiltInDnsClientEnabled"=dword:00000001
+"StandaloneHubsSidebarEnabled"=dword:00000001
+"HubsSidebarEnabled"=dword:00000001
+"SplitScreenEnabled"=dword:00000001
+"AutomaticHttpsDefault"=dword:00000002
+"SyncDisabled"=dword:00000001
+"ConfigureDoNotTrack"=dword:00000001
+"AskBeforeCloseEnabled"=dword:00000001
+"PinBrowserEssentialsToolbarButton"=dword:00000001
+"PinningWizardAllowed"=dword:00000001
+"FavoritesBarEnabled"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\Recommended]
+"GamerModeEnabled"=dword:00000001
