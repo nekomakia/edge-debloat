@@ -7,7 +7,7 @@ Windows Registry Editor Version 5.00
 "HighEfficiencyModeEnabled"=dword:00000000
 "BuiltInDnsClientEnabled"=dword:00000001
 "DnsOverHttpsMode"="secure"
-"DnsOverHttpsTemplates"="https://freedns.controld.com/x-goodbyeads"
+"DnsOverHttpsTemplates"="https://freedns.controld.com/x-goodbyeads" ;you can change this custom dns
 "AutoDiscardSleepingTabsEnabled"=dword:00000001
 "SleepingTabsEnabled"=dword:00000001
 "SleepingTabsTimeout"=dword:00000300
